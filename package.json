@@ -2,7 +2,7 @@
 	"name": "Jabed",
 	"version": "9.7.5",
 	"description": "A simple Facebook Messenger Bot made by me(Jabed) and my brother Jabed-bahi.",
-	"main": "jabedbot",
+	"main": "Jabedbot",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
